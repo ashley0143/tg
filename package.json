@@ -11,7 +11,8 @@
     "snekfetch": "^4.0.4",
     "cleverbot-free": "^1.1.6",
     "reddit-simple": "^2.1.1",
-    "superagent": "^6.1.0"
+    "superagent": "^6.1.0",
+    "util": "^0.12.4"
   },
   "engines": {
     "node": "16.x"
