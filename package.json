@@ -1,0 +1,21 @@
+{
+  "name": "poketale",
+  "version": "1.18.1",
+  "description": "Poketale Telegram",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0",
+    "snekfetch": "^4.0.4",
+    "cleverbot-free": "^1.1.6",
+    "reddit-simple": "^2.1.1",
+    "superagent": "^6.1.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "iamashley",
+  "license": "WTFPL"
+}
